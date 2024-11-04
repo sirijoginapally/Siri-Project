@@ -22,7 +22,18 @@ Welcome to My Data Analysis Portfolio! 🚀 As an aspiring data analyst with a p
 *  This analysis not only explains the current delay crisis but also raises important questions about post-pandemic airport operations and capacity management.
 
 ## Project 4: Sports Apparel Stock Analysis and Forecasting
+* In this project, we conducted an in-depth analysis of the stock performance for 5 major companies in the sports apparel industry - Columbia Sportswear (COLM), Lululemon Athletica (LULU), Nike (NKE), Skechers USA (SKX), and Under Armour (UAA).
+* Using historical stock data from January 2023 through October 2023, we applied the Capital Asset Pricing Model (CAPM) to evaluate the risk-adjusted returns of these stocks. Based on the CAPM analysis, we identified LULU and SKX as the top performing stocks in the portfolio.
+* We then leveraged time series forecasting techniques, including SARIMAX modeling, to predict the November 2023 stock prices for LULU and SKX - a crucial month as it marks the start of the holiday shopping season for the sports apparel industry. The insights gleaned from this analysis can help investors and industry stakeholders make more informed decisions as they navigate the dynamic sports apparel market.
 
 ## Project 5: Analyzing and Prediction of Amazon Product Sales
+* This project involves analyzing Amazon products based on their price and rating using two datasets: amazon_categories.csv and amazon_products.csv. 
+* The preprocessing steps included merging, cleaning, handling null values, dropping irrelevant columns, and adjusting data types.
+* Key visualizations were created to explore metrics such as the maximum product sales by category, popular price ranges, average price per category, distribution of best sellers, and the category with the highest number of reviews.
+* We applied a linear regression model using PySpark to predict product prices across categories and evaluated its performance using Root Mean Squared Error (RMSE), demonstrating the model's effectiveness in price prediction.
+
 
 ## Project 6: Handicap Assistant- TTS and STT
+* The Handicap Assistant is a groundbreaking application that leverages advanced artificial intelligence to bridge the communication gap for individuals with disabilities.
+* By seamlessly integrating state-of-the-art text summarization, text-to-speech, and speech-to-text capabilities, the assistant empowers users to engage more effectively with their surroundings, access information, and express themselves with greater ease.
+* Developed with a focus on accessibility and inclusivity, the Handicap Assistant aims to revolutionize the lives of those facing communication challenges, promoting social integration and enhancing their overall quality of life.
